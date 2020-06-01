@@ -25,3 +25,7 @@ python -m spacy download en_core_web_md
 ```sh
 python -m spacy download en_core_web_lg
 ```
+- Deactivate conda env and the run:
+```sh
+jupyter lab
+```
