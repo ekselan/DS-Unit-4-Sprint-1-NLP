@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 - Add Ipython Kernel reference for use from JupyterLab:
 ```sh
-python -m ipykernel install --user --name conda-env-name --display-name "U4-S1-NLP (Python3)"
+python -m ipykernel install --user --name conda-env-name --display-name "Desired Display Name"
 ```
 - Install spacy models:
 ```sh
