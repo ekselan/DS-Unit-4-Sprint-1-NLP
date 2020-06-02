@@ -102,5 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 
 module1-text-data/data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv
+=======
+>>>>>>> 69e847c7c406c8aa7f2f0cfa29bc02ed60834a4f
