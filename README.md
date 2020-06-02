@@ -29,7 +29,6 @@ python -m spacy download en_core_web_lg
 ```sh
 jupyter lab
 ```
-<<<<<<< HEAD
 
 ## Using Spacy
 - Import Statements:
@@ -186,5 +185,3 @@ df['lemmas'] = df['texts'].apply(get_lemmas) #> Cannot apply to tokens, must be 
 
 
 
-=======
->>>>>>> 69e847c7c406c8aa7f2f0cfa29bc02ed60834a4f
